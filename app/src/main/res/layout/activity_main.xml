@@ -52,4 +52,9 @@
             android:text=""
             android:id="@+id/ap3"/>
     </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="position"
+        android:id="@+id/currentPosition"/>
 </LinearLayout>
